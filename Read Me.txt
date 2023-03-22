@@ -1,0 +1,13 @@
+
+. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+. Create a database with name hms
+
+. Import hms.sql file
+
+.Run the script http://localhost/index.php (frontend)
+
+Login Details
+Login Details for admin : admin/Test@12345
+Login Details for User: test@gmail.com/Test@123
+you can ceate new user .....
